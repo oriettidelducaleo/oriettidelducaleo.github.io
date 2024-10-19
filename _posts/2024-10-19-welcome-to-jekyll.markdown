@@ -14,6 +14,10 @@ Jekyll requires blog $2+2=4$ post files to be named according to the following f
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file ~extension representing~ the format used in the file. After that, include <mark>the necessary front</mark> matter. Take a look at the source for this post to get an idea about how it works.
 
+> ciao
+> come va
+
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
