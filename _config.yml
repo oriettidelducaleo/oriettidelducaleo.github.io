@@ -38,6 +38,8 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
 
+markdown: kramdown
+
 minima:
   skin: auto
   social_links:
