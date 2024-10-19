@@ -39,6 +39,7 @@ plugins:
   - jekyll-feed
 
 markdown: kramdown
+mathjax: true
 
 minima:
   skin: auto
