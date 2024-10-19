@@ -30,7 +30,6 @@ instagram_username: oriettidelducaleo
 github_username:  oriettidelducaleo
 
 # Build settings
-theme: minima
 remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
