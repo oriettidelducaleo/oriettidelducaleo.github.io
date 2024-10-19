@@ -30,7 +30,7 @@ instagram_username: oriettidelducaleo
 github_username:  oriettidelducaleo
 
 # Build settings
-theme: minima
+theme: minimal
 plugins:
   - jekyll-feed
 
