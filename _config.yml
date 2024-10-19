@@ -36,7 +36,9 @@ plugins:
 
 minima:
   skin: auto
-  social_links: true
+  social_links:
+    - { platform: github,  user_url: "https://github.com/oriettidelducaleo" }
+    - { platform: instagram, user_url: "https://instagram.com/oriettidelducaleo" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
