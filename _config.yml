@@ -39,6 +39,7 @@ minima:
   social_links:
     - { platform: github,  user_url: "https://github.com/oriettidelducaleo" }
     - { platform: instagram, user_url: "https://instagram.com/oriettidelducaleo" }
+    - { platform: telegram, user_url: "https://t.me/F01B3R23" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
